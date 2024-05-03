@@ -1,4 +1,4 @@
-Createing responsive website with antdesign reactjs reduxQuery and RapidApi
+Creating responsive crypto-currency price and news website with antdesign reactjs reduxQuery and RapidApi
 
 # Getting Started with Create React App
 
