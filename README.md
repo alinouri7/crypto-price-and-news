@@ -1,4 +1,4 @@
-createing responsive website with antdesign reactjs reduxQuery and RapidApi
+Createing responsive website with antdesign reactjs reduxQuery and RapidApi
 
 # Getting Started with Create React App
 
